@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memo plus</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="start">开始</string>
+    <string name="stop">暂停</string>
+    <string name="paly">播放</string>
+    <string name="pause_paly">暂停播放</string>
+    <string name="stop_paly">结束播放</string>
+    <string name="ok">播放完成</string>
+
+</resources>
